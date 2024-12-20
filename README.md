@@ -1,4 +1,4 @@
-### Olá, Eu sou o Vinicius Sátiro 🚀
+### About me 🚀
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vinicius.ps_)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinicius-pinheiro-s%C3%A1tiro-a7b24730b/)
